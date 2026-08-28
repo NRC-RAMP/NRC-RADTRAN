@@ -4,7 +4,7 @@ Welcome to the landing page of NRC-RADTRAN.
 Viewing these pages does not require an account. To submit issues or join discussions, you need to create a free GitLab account. Alternatively, you can submit inquiries directly to the RAMP team by email: RAMP@nrc.gov.
 
 ## Download
-The software can be downloaded from the RAMP website: [https://ramp.nrc-gateway.gov/codes/nrcdose/download](https://ramp.nrc-gateway.gov/codes/nrc-radtran/download)
+The software can be downloaded from the RAMP website: [https://ramp.nrc-gateway.gov/codes/nrc-radtran/download](https://ramp.nrc-gateway.gov/codes/nrc-radtran/download)
 
 ## About
 The NRC Radioactive Material Transport (NRC-RADTRAN) computer code is used for risk and consequence analysis of radioactive material (RAM) transportation. A variety of RAM is transported annually within this country and internationally. The shipments are carried out by overland modes (mainly truck and rail), marine vessels, and aircraft. Transportation workers and persons residing near or sharing transportation links with these shipments may be exposed to radiation from RAM packages during routine transport operations; exposures may also occur as a result of accidents. Risks and consequences associated with such exposures are the focus of the NRC-RADTRAN code.
